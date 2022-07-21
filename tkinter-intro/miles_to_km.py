@@ -2,8 +2,8 @@ from tkinter import *
 
 
 def miles_to_km():
-    miles_input = int(entry.get())
-    km_result = round(miles_input * 1.6, 2)
+    miles_input = float(entry.get())
+    km_result = round(miles_input * 1.609, 2)
     conversion["text"] = km_result
 
 
