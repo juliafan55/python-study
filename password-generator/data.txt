@@ -1,0 +1,5 @@
+ebay | email@email.com | 12345 
+amazon | email@email.com | 12345 
+dropbox | email@email.com | 12345 
+gap | email@email.com | 123456 
+1234 | email@email.com | 121534 
